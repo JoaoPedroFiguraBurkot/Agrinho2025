@@ -4,14 +4,14 @@
   --amarelo: #FFFF00;
 }
 
-/* fontes */
+
 .patrick-hand-sc-regular {
   font-family: "Patrick Hand SC", cursive;
   font-weight: 400;
   font-style: normal;
 }
 
-/* fundo do carrossel */
+
 .background-carousel {
   position: fixed;
   top: 0;
@@ -24,16 +24,14 @@
   transition: background-image 1s ease-in-out;
 }
 
-/* container do conteúdo principal */
 .conteudo {
   position: relative;
   z-index: 1;
   padding: 20px;
 }
 
-/* estilo do body */
+
 body {
-  background-color: greenyellow;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
